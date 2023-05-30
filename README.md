@@ -29,8 +29,8 @@ Execute the program and run the terminal . Check the performance using nvprof.
 
 ## Program :
 ```
-Developed By: Palamakula Deepika
-Reg.No: 212221240035
+Developed By: VALASAREDDY PALLAVI
+Reg.No: 212221240059
 ```
 ```
 #include "common.h"
